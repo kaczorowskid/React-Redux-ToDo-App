@@ -71,7 +71,7 @@ class Item extends Component {
     }
 }
 
-//test
+
 
 const mapStateToProps = (state) => ({
     item_name: state.item_name,
